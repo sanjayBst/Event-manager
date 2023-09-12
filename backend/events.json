@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Delhi Music Festival.","image":"https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_800/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1692016296%2Fk62qxfkl19cw0trl83ii.jpg","date":"2023-09-24","description":"Get ready to experience the ultimate cultural celebration under the sun & stars! Introducing the Delhi Music Festival, where we are bringing together the diverse sounds and rhythms of India. ","id":"30da4802-6338-45da-853e-60e0ec5bc4ed"},{"title":"BURNING BEATS MUSIC FESTIVAL.","image":"https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_800/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1686023966%2Femxckbb0xoxnirjfk9xa.jpg","date":"2023-09-09","description":"\"Welcome to the Burning Beats Music Festival, an EDM music extravaganza that has taken over Greater Noida. This year's festival promises to be bigger and better than ever before. ","id":"64c416a0-81a1-495e-8e68-63d0223c178d"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
